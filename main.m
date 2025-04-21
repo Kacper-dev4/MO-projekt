@@ -31,7 +31,7 @@ ylabel('Uchyb')
 figure
 plot(t,u);
 xlabel('Czas, s')
-ylabel('Sygnał sterowania')
+ylabel('Sygnał sterujący')
 
 
 ISE = sum(e.^2)
